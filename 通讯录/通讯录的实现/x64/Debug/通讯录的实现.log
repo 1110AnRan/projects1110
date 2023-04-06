@@ -1,0 +1,7 @@
+﻿  Contact.c
+D:\VS_Code\Projects\通讯录\通讯录的实现\Contact.c(124,12): warning C4047: “初始化”:“contact *”与“contact **”的间接级别不同
+D:\VS_Code\Projects\通讯录\通讯录的实现\Contact.c(159,18): warning C4047: “函数”:“contact **”与“contact *”的间接级别不同
+D:\VS_Code\Projects\通讯录\通讯录的实现\Contact.c(159,16): warning C4024: “SearchContact”: 形参和实参 1 的类型不同
+  test.c
+  正在生成代码...
+  通讯录的实现.vcxproj -> D:\VS_Code\Projects\通讯录\通讯录的实现\x64\Debug\通讯录的实现.exe
