@@ -1,0 +1,5 @@
+﻿  Queue.c
+  test.c
+D:\VS_Code\Projects\队列\队列的实现\test.c(31,10): warning C4098: “TestQueue”:“void”函数返回值
+  正在生成代码...
+  队列的实现.vcxproj -> D:\VS_Code\Projects\队列\队列的实现\x64\Debug\队列的实现.exe
