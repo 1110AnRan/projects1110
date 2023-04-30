@@ -1,0 +1,4 @@
+﻿  Sort.cpp
+D:\VS_Code\Projects\排序\排序的实现\Sort.cpp(5,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS_Code\Projects\排序\排序的实现\Sort.cpp(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  排序的实现.vcxproj -> D:\VS_Code\Projects\排序\排序的实现\x64\Debug\排序的实现.exe
