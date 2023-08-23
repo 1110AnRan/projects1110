@@ -1,0 +1,103 @@
+﻿  test.cpp
+D:\VS_Code\Projects\图\UnionFindSet.h(26,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\UnionFindSet.h(27,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(764,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(758,8): message : 在编译 类 模板 成员函数“void LinkTable::Graph<char,int,true>::AddEdge(const V &,const V &,const W &)”时
+          with
+          [
+              V=char,
+              W=int
+          ]
+D:\VS_Code\Projects\图\Graph.h(812,12): message : 请参阅 "LinkTable::TestGraph1" 中对 "LinkTable::Graph<char,int,true>::AddEdge" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(811,26): message : 查看对正在编译的 类 模板 实例化“LinkTable::Graph<char,int,true>”的引用
+D:\VS_Code\Projects\图\Graph.h(771,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(290,25): warning C4267: “参数”: 从“size_t”转换到“const V”，可能丢失数据
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(271,5): message : 在编译 类 模板 成员函数“W Matrix::Graph<char,W,2147483647,false>::Prim(Matrix::Graph<char,W,2147483647,false> &,const V &)”时
+          with
+          [
+              W=int,
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(581,44): message : 请参阅 "Matrix::TestGraphMinTree" 中对 "Matrix::Graph<char,int,2147483647,false>::Prim" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(558,20): message : 查看对正在编译的 类 模板 实例化“Matrix::Graph<char,int,2147483647,false>”的引用
+D:\VS_Code\Projects\图\Graph.h(290,19): warning C4267: “参数”: 从“size_t”转换到“const V”，可能丢失数据
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(309,32): warning C4267: “参数”: 从“size_t”转换到“const V”，可能丢失数据
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(232,23): warning C4267: “参数”: 从“size_t”转换到“const V”，可能丢失数据
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(213,5): message : 在编译 类 模板 成员函数“W Matrix::Graph<char,W,2147483647,false>::Kruskal(Matrix::Graph<char,W,2147483647,false> &)”时
+          with
+          [
+              W=int
+          ]
+D:\VS_Code\Projects\图\Graph.h(576,45): message : 请参阅 "Matrix::TestGraphMinTree" 中对 "Matrix::Graph<char,int,2147483647,false>::Kruskal" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(232,20): warning C4267: “参数”: 从“size_t”转换到“const V”，可能丢失数据
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(242,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(107,11): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(100,8): message : 在编译 类 模板 成员函数“void Matrix::Graph<std::string,int,2147483647,false>::BFS(const V &)”时
+          with
+          [
+              V=std::string
+          ]
+D:\VS_Code\Projects\图\Graph.h(551,9): message : 请参阅 "Matrix::TestGraphDBFS" 中对 "Matrix::Graph<std::string,int,2147483647,false>::BFS" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(544,22): message : 查看对正在编译的 类 模板 实例化“Matrix::Graph<std::string,int,2147483647,false>”的引用
+D:\VS_Code\Projects\图\Graph.h(113,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_Code\Projects\图\Graph.h(113,12): message : 请考虑在格式字符串中使用“%zd”
+D:\VS_Code\Projects\图\Graph.h(123,15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS_Code\Projects\图\Graph.h(123,15): message : 请考虑在格式字符串中使用“%zd”
+D:\VS_Code\Projects\图\Graph.h(125,15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(485,28): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VS_Code\Projects\图\Graph.h(464,8): message : 在编译 类 模板 成员函数“void Matrix::Graph<char,int,2147483647,true>::FloydWarShall(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)”时
+D:\VS_Code\Projects\图\Graph.h(695,18): message : 请参阅 "Matrix::TestFloydWarShall" 中对 "Matrix::Graph<char,int,2147483647,true>::FloydWarShall" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(528,35): message : 查看对正在编译的 类 模板 实例化“Matrix::Graph<char,int,2147483647,true>”的引用
+D:\VS_Code\Projects\图\Graph.h(403,23): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VS_Code\Projects\图\Graph.h(363,8): message : 在编译 类 模板 成员函数“void Matrix::Graph<char,int,2147483647,true>::Dijkstra(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(602,13): message : 请参阅 "Matrix::TestGraphDijkstra" 中对 "Matrix::Graph<char,int,2147483647,true>::Dijkstra" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(341,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\Projects\图\Graph.h(328,8): message : 在编译 类 模板 成员函数“void Matrix::Graph<char,int,2147483647,true>::PrinrtShotPath(const V &,std::vector<int,std::allocator<int>> &,std::vector<int,std::allocator<int>> &)”时
+          with
+          [
+              V=char
+          ]
+D:\VS_Code\Projects\图\Graph.h(604,19): message : 请参阅 "Matrix::TestGraphDijkstra" 中对 "Matrix::Graph<char,int,2147483647,true>::PrinrtShotPath" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(347,20): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VS_Code\Projects\图\Graph.h(139,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS_Code\Projects\图\Graph.h(139,11): message : 请考虑在格式字符串中使用“%zd”
+D:\VS_Code\Projects\图\Graph.h(137,8): message : 在编译 类 模板 成员函数“void Matrix::Graph<std::string,int,2147483647,false>::_DFS(size_t,std::vector<bool,std::allocator<bool>> &)”时
+D:\VS_Code\Projects\图\Graph.h(159,8): message : 请参阅 "Matrix::Graph<std::string,int,2147483647,false>::DFS" 中对 "Matrix::Graph<std::string,int,2147483647,false>::_DFS" 的第一个引用
+D:\VS_Code\Projects\图\Graph.h(552,9): message : 请参阅 "Matrix::TestGraphDBFS" 中对 "Matrix::Graph<std::string,int,2147483647,false>::DFS" 的第一个引用
+  图.vcxproj -> D:\VS_Code\Projects\图\x64\Debug\图.exe
