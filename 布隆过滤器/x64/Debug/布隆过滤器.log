@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\VS_Code\Projects\布隆过滤器\BloomFilter.h(147,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS_Code\Projects\布隆过滤器\BloomFilter.h(156,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  布隆过滤器.vcxproj -> D:\VS_Code\Projects\布隆过滤器\x64\Debug\布隆过滤器.exe
