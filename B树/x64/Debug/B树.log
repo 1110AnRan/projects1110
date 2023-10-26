@@ -1,0 +1,24 @@
+﻿  Test.cpp
+D:\Program Files (x86)\Visual Studio 2022\VC\Tools\MSVC\14.37.32822\include\utility(270,61): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+D:\VS_Code\Projects\B树\BTree.h(59,6): message : 查看对正在编译的函数 模板 实例化“std::pair<BTreeNode<K,3> *,int>::pair<BTreeNode<K,3>*,unsigned __int64,0>(std::pair<BTreeNode<K,3> *,unsigned __int64> &&) noexcept”的引用
+          with
+          [
+              K=int
+          ]
+D:\VS_Code\Projects\B树\BTree.h(39,19): message : 在编译 类 模板 成员函数“std::pair<BTreeNode<K,3> *,int> BTree<K,3>::Find(const K &)”时
+          with
+          [
+              K=int
+          ]
+D:\VS_Code\Projects\B树\BTree.h(109,26): message : 请参阅 "BTree<int,3>::Insert" 中对 "BTree<int,3>::Find" 的第一个引用
+D:\VS_Code\Projects\B树\BTree.h(221,11): message : 请参阅 "TestBtree" 中对 "BTree<int,3>::Insert" 的第一个引用
+D:\VS_Code\Projects\B树\BTree.h(217,16): message : 查看对正在编译的 类 模板 实例化“BTree<int,3>”的引用
+  B树.vcxproj -> D:\VS_Code\Projects\B树\x64\Debug\B树.exe
