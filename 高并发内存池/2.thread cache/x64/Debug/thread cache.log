@@ -1,0 +1,3 @@
+﻿  UniTest.cpp
+D:\VS_Code\Projects\高并发内存池\2.thread cache\Common.h(114,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  thread cache.vcxproj -> D:\VS_Code\Projects\高并发内存池\2.thread cache\x64\Debug\thread cache.exe
