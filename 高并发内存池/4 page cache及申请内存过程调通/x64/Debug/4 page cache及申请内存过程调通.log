@@ -1,0 +1,4 @@
+﻿  UniTest.cpp
+D:\VS_Code\Projects\高并发内存池\4 page cache及申请内存过程调通\Common.h(160,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\VS_Code\Projects\高并发内存池\4 page cache及申请内存过程调通\Common.h(204,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  4 page cache及申请内存过程调通.vcxproj -> D:\VS_Code\Projects\高并发内存池\4 page cache及申请内存过程调通\x64\Debug\4 page cache及申请内存过程调通.exe
