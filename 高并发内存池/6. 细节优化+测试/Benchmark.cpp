@@ -93,7 +93,7 @@ int main()
 		endl;
 	BenchmarkConcurrentMalloc(n, 4, 10);
 	cout << endl << endl;
-	//BenchmarkMalloc(n, 4, 10);
+	BenchmarkMalloc(n, 4, 10);
 	cout << "==========================================================" <<
 		endl;
 	return 0;
